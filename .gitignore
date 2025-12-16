@@ -1,0 +1,16 @@
+# Node.js
+node_modules/
+npm-debug.log*
+
+# Environment files
+.env
+
+# Frontend builds
+dist/
+build/
+
+# Local AI / Ollama (DO NOT COMMIT)
+.ollama/
+
+# OS files
+.DS_Store
