@@ -21,7 +21,7 @@ npm install --legacy-peer-deps
 npm run dev
 ```
 
-Open the URL shown by Vite (usually https://vercel.com/shalini500s-projects/accessibility-analyser-fullstack-m7ge/4W6BRwv9fbWzkb4MEhAGWkWZzjh4)
+Open the URL shown by Vite (usually https://accessibility-analyser-fullstack-m7.vercel.app/)
 
 ## Notes
 - No external APIs required. Suggestions are rule-based.
